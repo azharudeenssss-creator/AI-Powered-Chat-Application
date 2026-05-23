@@ -15,7 +15,7 @@ bun dev
 ```
 output Screen shot 
 <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/11711947-c6aa-449a-b39c-11b18d0aa2a8" />
-
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/9cbb903c-08d0-4b0e-b9dc-7982fbe381cd" />
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
