@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-output Screen Viewa
+output Screen View
 <img width="1902" height="911" alt="image" src="https://github.com/user-attachments/assets/096839d6-592f-4a07-a27f-0f562b0987c0" />
 
 
