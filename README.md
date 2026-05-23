@@ -13,9 +13,10 @@ pnpm dev
 # or
 bun dev
 ```
-output Screen shot 
-<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/11711947-c6aa-449a-b39c-11b18d0aa2a8" />
-<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/9cbb903c-08d0-4b0e-b9dc-7982fbe381cd" />
+output Screen Viewa
+<img width="1902" height="911" alt="image" src="https://github.com/user-attachments/assets/096839d6-592f-4a07-a27f-0f562b0987c0" />
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
